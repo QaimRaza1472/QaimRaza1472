@@ -2,8 +2,8 @@
 <h3 align="center">Software Developer • Building scalable and modern applications</h3>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://github.com/QaimRaza1472">
+    <img src="https://komarev.com/ghpvc/?username=QaimRaza1472E&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   </a>
 </p>
 
