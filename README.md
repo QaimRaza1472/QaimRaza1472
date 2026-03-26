@@ -36,8 +36,8 @@
 ## GitHub Analytics
 
 <p>
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=YOUR_USERNAME&show_icons=true&rank_icon=github&include_all_commits=true&hide_border=true" />
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=YOUR_USERNAME&layout=compact&langs_count=8&hide_border=true" />
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=QaimRaza1472&show_icons=true&rank_icon=github&include_all_commits=true&hide_border=true" />
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=QaimRaza1472&layout=compact&langs_count=8&hide_border=true" />
 </p>
 
 <p>
