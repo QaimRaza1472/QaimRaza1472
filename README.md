@@ -41,7 +41,7 @@
 </p>
 
 <p>
-  <img height="160" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true" />
+  <img height="160" src="https://streak-stats.demolab.com?user=QaimRaza1472&theme=transparent&hide_border=true" />
 </p>
 
 ## Connect
